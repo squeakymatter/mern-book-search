@@ -2,6 +2,12 @@
 
 Google Books API search engine originally built with a RESTful API, and refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
+This app is deployed at https://still-island-52404.herokuapp.com/
+
+# Mockup
+<img width="1552" alt="mockup" src="https://user-images.githubusercontent.com/70823737/116966349-ca8edf00-ac64-11eb-8210-374038545fb5.png">
+
+
 ##User Story
 AS AN avid reader
 I WANT to search for new books to read
@@ -37,3 +43,6 @@ GIVEN a book search engine
     - THEN that book is deleted from my saved books list
 - WHEN I click on the Logout button
     - THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+
+# Questions
+Please contact the repo owner.
