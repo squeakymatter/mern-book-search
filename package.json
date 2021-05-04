@@ -19,7 +19,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "server": "file:server"
   },
   "devDependencies": {
     "concurrently": "^5.3.0"
